@@ -2,7 +2,9 @@
 
 > 项目基于 [Miniature Weather Station - ESP8266](https://www.instructables.com/id/Minitaure-Weather-Station-ESP8266/)
 
-对原项目做了大幅度的修改。替换了所有 API，新增设置页面及 OTA 升级功能；额外绘制了 PCB 板，精简了部分硬件及功能。
+对原项目做了大幅度的修改。
+
+替换了 API，新增设置页面及 OTA 升级功能；额外绘制了 PCB 板，精简了部分硬件及功能。
 
 ## 0. 关于
 
@@ -10,9 +12,9 @@
 
 ### 设置页面
 
-![](https://raw.githubusercontent.com/HongDing97/imgs/main/IMG_0311.JPEG)
-
 > 页面特意适配了深色模式
+
+![](https://raw.githubusercontent.com/HongDing97/imgs/main/IMG_0311.JPEG)
 
 ## 1. 硬件
 
