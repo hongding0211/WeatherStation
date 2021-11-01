@@ -8,7 +8,7 @@
 - 实时天气信息
 - 未来 3 日天气预报
 
-
+![](https://raw.githubusercontent.com/HongDing97/imgs/main/IMG_0346.JPEG)
 
 > 原项目的 UI 动画也删掉了，感觉有点冗余
 
@@ -42,6 +42,9 @@
   > 注意针脚顺序，有的版本 VCC 在最左边
   > 
   > ![](https://raw.githubusercontent.com/HongDing97/imgs/main/20211101104504.png)
+- AMS1117-3.3
+- 10k 电阻
+- 10uF 电容
 
 **单个硬件成本约 70，将 PCB 和 3D 模型直接发送给工厂加工即可。**
 
